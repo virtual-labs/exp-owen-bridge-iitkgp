@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "An owen's bridge is used to measure the properties of a sample of sheet steel at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>3</sub>=50Ω;&nbsp;arm cd is C<sub>4</sub>=0.5`uF` and arm da is R<sub>2</sub>=834Ω in series with C<sub>2</sub>=0.124`uF`.Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"image/quiz2.jpg\" style=\"width:350px;height:200px\"></p>",
+      "question": "An owen's bridge is used to measure the properties of a sample of sheet steel at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>3</sub>=50Ω;&nbsp;arm cd is C<sub>4</sub>=0.5`uF` and arm da is R<sub>2</sub>=834Ω in series with C<sub>2</sub>=0.124`uF`.Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"images/quiz2.jpg\" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": " Z<sub>1</sub>=140.4Ω",
         "b": "Z<sub>1</sub>=440.4Ω",
