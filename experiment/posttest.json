@@ -2,37 +2,71 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The reliability of the instrument refer to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Measurement of changes due to temperature variations",
+        "b": "Degree to which repeatibility continues to remain within specified limits",
+        "c": "The extent to which the characteristics remain linear",
+        "d": "The life of the instrument"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "An owen's bridge is used to measure the properties of a sample of sheet steel at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>3</sub>=50Ω;&nbsp;arm cd is C<sub>4</sub>=0.5`uF` and arm da is R<sub>2</sub>=834Ω in series with C<sub>2</sub>=0.124`uF`.Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"images/quiz2.jpg\" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": " Z<sub>1</sub>=140.4Ω",
+        "b": "Z<sub>1</sub>=440.4Ω",
+        "c": "Z<sub>1</sub>=240.4Ω",
+        "d": "Z<sub>1</sub>=340.4Ω"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "AC bridges are used for the measurement of.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": " Resistances",
+        "b": " Resistances and Inductances" ,
+        "c": "Inductances and capacitances" ,
+        "d": "Resistances, inductances and capacitances" 
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct.",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which factor is the ratio of the total flux to the useful flux in a magnetic circuit",
+      "answers": {
+        "a": "Utility",
+        "b": "Form factor" ,
+        "c": "Dispersion" ,
+        "d": "Leakage" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
+      },
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
