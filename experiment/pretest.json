@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "An owen's bridge is used to measure the properties of a sample of sheet steel at 2kHz. At balance, arm ab is test specimen;&nbsp;arm bc is R<sub>3</sub>=100Ω;&nbsp;arm cd is C<sub>4</sub>=0.1`uF` and arm da is R<sub>2</sub>=834Ω in series with C<sub>2</sub>=0.124`uF`. Calculate the effective impedence of the specimen under test conditions.<br/><p style=\"text-align:center\"><img src=\"image/quiz1.jpg\" style=\"width:450px;height:300px\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Z<sub>1</sub>=112Ω",
+        "b": "Z<sub>1</sub>=152Ω",
+        "c": "Z<sub>1</sub>=142Ω",
+        "d": "Z<sub>1</sub>=132Ω"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The AC Bridge used for the measurement of inductance is/are<br/>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Maxwell’s inductance bridge",
+        "b": "Hay’s bridge",
+        "c": "Anderson’s bridge, Owen’s bridge",
+        "d": "All of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
