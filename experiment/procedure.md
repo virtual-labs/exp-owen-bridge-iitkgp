@@ -20,7 +20,7 @@
 5. If "NULL" is achieved, switch to 'Measure Inductor value' tab and click on 'Simulate'. Observe the calculated values of unknown inductance (L1) and unknown internal resistance (R1) of the inductor.
  </br>
   <br>
-6. Also observe the Dissipation factor of the unknwown inductor which is defined as $$ \frac{$\omega L} {R} $$ Where, $$ ω=2πf $$.
+6. Also observe the Dissipation factor of the unknwown inductor which is defined as $$ \frac{\omega L} {R}  Where,  ω=2πf $$.
 
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
