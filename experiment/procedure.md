@@ -22,3 +22,4 @@
   <br>
 6. Also observe the Dissipation factor of the unknwown inductor which is defined as `(omegaL)/R`.   Where, `omega=2pif`.
 </br>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
