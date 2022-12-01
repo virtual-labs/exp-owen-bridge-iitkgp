@@ -42,3 +42,4 @@ Equating both the real and imaginary parts in eq.`(1)` and seperating them,
 The balance may be obtained by variation of resistance `R_2` and capacitor `C_2`.
 
 
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
