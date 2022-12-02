@@ -23,6 +23,7 @@ C<sub>2</sub>= Variable standard capacitor,
 C<sub>4</sub>= Fixed standard capacitor.
 
 At balance condition, <br>
+
 $$ (R_1 + j \omega L_1) * (\frac{1}{j \omega C_4}) = (R_2 + \frac {1}{j \omega C_2}) * R_3 ........(1) $$
 
  
