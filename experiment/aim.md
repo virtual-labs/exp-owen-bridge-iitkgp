@@ -1,1 +1,2 @@
-### Aim of the experiment
+## Objective
+- To determine the self-inductance of an unknown coil. 
