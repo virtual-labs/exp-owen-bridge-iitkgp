@@ -27,7 +27,7 @@ At balance condition, <br>
 $$ (R_1 + j \omega L_1) * (\frac{1}{j \omega C_4}) = (R_2 + \frac {1}{j \omega C_2}) * R_3 ........(1) $$
 
  
-Equating both the real and imaginary parts in eq.(1) and seperating them,
+Equating both the real and imaginary parts in eq.(1) and separating them,
 <div align="center">
 
 $$ L_1 = R_2R_3C_4 ........(2) $$
